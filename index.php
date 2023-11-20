@@ -1,3 +1,6 @@
+<?php 
+include('traitement.php');
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
